@@ -1,23 +1,19 @@
-# jSs-escrevenome
-
-<!DOCTYPE html>
- <html lang="en">
-<head>
-<script
-src="https://cdnjs.cloudflare.com/aj ax/libs/p5.js/1.9.1/p5.js"></script>
-<script
-src="https://cdnjs.cloudflare.com/aj ax/libs/p5.js/1.9.1/addons/p5.sound. min.js"></script>
-<link rel="stylesheet" type="text/css" href="style.css">
-<meta charset="utf-8" />
-
-
-</head>
 <body>
-<main>
-</main>
-<script src="sketch.js">
-</script>
-<script src="p5.collide2d.js">
-</script>
+
+    <header>ALURAFLIX</header>
+
+
+
+
+
+    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+
+    <p>#homem-aranha</p>
+
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=EEv-tsY_b1B2OwKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 </body>
-</html>
